@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+.btn-primary{
+  background-color: #3399ff;
+border-color: #ffffff;
+font-family: 'Assistant', sans-serif;
+}
+.App-logo {
+  height: 50px;
+  margin-bottom: 40px;
+}
+.jumbotronHead{
+  background-color: white;
+color:gray;
+}
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+.jumbotron p{
+  width: 60%;
+      display: inline-block;
+}
+.profile{
+height: 50px;
+width: 50px;
+}
+
+.App-intro {
+  font-size: large;
+  color: lightgray
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
